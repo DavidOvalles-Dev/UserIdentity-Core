@@ -1,0 +1,40 @@
+﻿@page
+@model UserIdentity_Core.Areas.Identity.Pages.Account.LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<h2>Login</h2>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label asp-for="Input.Email"></label>
+        <input type="text" id="Input_Email" name="Input.Email" />
+        <span asp-validation-for="Input.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Input.Password"></label>
+        <input type="password" id="Input_Password" name="Input.Password" />
+        <span asp-validation-for="Input.Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-group form-check">
+        <input asp-for="Input.RememberMe" class="form-check-input" type="checkbox" />
+        <label asp-for="Input.RememberMe" class="form-check-label">Recordarme</label>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>
+
+<partial name="_ValidationScriptsPartial" />
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

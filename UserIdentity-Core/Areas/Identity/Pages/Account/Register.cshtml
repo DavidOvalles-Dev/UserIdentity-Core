@@ -1,0 +1,47 @@
+﻿@page
+@model UserIdentity_Core.Areas.Identity.Pages.Account.RegisterModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>Register</h1>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+    <!-- Campos del formulario -->
+    <div class="form-group">
+        <label asp-for="Input.Email"></label>
+        <input type="text" id="Input_Email" name="Input.Email" />
+        <span asp-validation-for="Input.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Input.Password"></label>
+        <input type="password" id="Input_Password" name="Input.Password" />
+        <span asp-validation-for="Input.Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Input.ConfirmPassword"></label>
+        <input type="password" id="Input_ConfirmPassword" name="Input.ConfirmPassword" />
+        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+    </div>
+
+    <!-- Campo FullName -->
+    <div class="form-group">
+        <label asp-for="Input.fullName"></label>
+        <input asp-for="Input.fullName" id="Input_fullname" name="Input.fullName" />
+        <span asp-validation-for="Input.fullName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
+
+<partial name="_ValidationScriptsPartial" />
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
