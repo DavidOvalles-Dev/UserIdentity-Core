@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\areas\\identity\\pages\\productos\\misproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\areas\\identity\\pages\\productos\\misproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\areas\\identity\\pages\\productos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\areas\\identity\\pages\\productos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\areas\\identity\\pages\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\areas\\identity\\pages\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\data\\migrations\\20241127010338_removeimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\data\\migrations\\20241127010338_removeimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\areas\\identity\\pages\\productos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\areas\\identity\\pages\\productos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\areas\\identity\\pages\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\areas\\identity\\pages\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\areas\\identity\\pages\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\areas\\identity\\pages\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\data\\migrations\\20241126171915_inicialimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\data\\migrations\\20241126171915_inicialimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\areas\\identity\\pages\\productos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\areas\\identity\\pages\\productos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\areas\\identity\\pages\\productos\\misproductos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\areas\\identity\\pages\\productos\\misproductos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|c:\\users\\administrador\\source\\repos\\useridentity-core\\useridentity-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3A9C8D-F0DB-4D32-A955-DC99E92FC689}|UserIdentity-Core\\UserIdentity-Core.csproj|solutionrelative:useridentity-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241127010338_RemoveImages.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Data\\Migrations\\20241127010338_RemoveImages.cs",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Data\\Migrations\\20241127010338_RemoveImages.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Data\\Migrations\\20241127010338_RemoveImages.cs",
+              "RelativeToolTip": "UserIdentity-Core\\Data\\Migrations\\20241127010338_RemoveImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:03:39.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MisProductos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\MisProductos.cshtml",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\MisProductos.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\MisProductos.cshtml",
+              "RelativeToolTip": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\MisProductos.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T16:48:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:12:01.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UserIdentity-Core\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:50:22.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Delete.cshtml.cs",
+              "RelativeToolTip": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Delete.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:17:20.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Models\\Productos.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Models\\Productos.cs",
+              "RelativeToolTip": "UserIdentity-Core\\Models\\Productos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:58:26.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Create.cshtml.cs",
+              "RelativeToolTip": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Create.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAhwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:56:57.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Create.cshtml",
+              "RelativeToolTip": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T17:17:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UserIdentity-Core\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T16:57:15.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Index.cshtml",
+              "RelativeToolTip": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T16:56:28.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241126171915_InicialImagen.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Data\\Migrations\\20241126171915_InicialImagen.cs",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Data\\Migrations\\20241126171915_InicialImagen.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Data\\Migrations\\20241126171915_InicialImagen.cs",
+              "RelativeToolTip": "UserIdentity-Core\\Data\\Migrations\\20241126171915_InicialImagen.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:19:16.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Index.cshtml.cs",
+              "RelativeToolTip": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:57:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Program.cs",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Program.cs",
+              "RelativeToolTip": "UserIdentity-Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:20:31.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MisProductos.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\MisProductos.cshtml.cs",
+              "RelativeDocumentMoniker": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\MisProductos.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\UserIdentity-Core\\UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\MisProductos.cshtml.cs",
+              "RelativeToolTip": "UserIdentity-Core\\Areas\\Identity\\Pages\\Productos\\MisProductos.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:51:16.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

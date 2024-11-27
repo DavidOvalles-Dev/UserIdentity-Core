@@ -1,0 +1,33 @@
+﻿@page
+@using System.Security.Claims
+@model UserIdentity_Core.Areas.Identity.Pages.Productos.CreateModel
+
+
+@{
+    ViewData["Title"] = "Crear Producto";
+}
+
+
+<h2>Crear Producto</h2>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+    @* contenido oculto *@
+    <input type="hidden" name="Producto.UserId" value="@User.FindFirstValue(ClaimTypes.NameIdentifier)" />
+
+    <div class="form-group">
+        <label for="Nombre">Nombre</label>
+        <input name="Producto.Nombre" type="text" class="form-control" id="Nombre" required />
+    </div>
+    <div class="form-group">
+        <label for="Descripcion">Descripción</label>
+        <textarea name="Producto.Descripcion" class="form-control" id="Descripcion" required="false"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="Precio">Precio</label>
+        <input name="Producto.Precio" type="number" step="0.01" class="form-control" id="Precio" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Crear Producto</button>
+</form>
+
+<a href="/Identity/Productos/Index" class="btn btn-secondary">Volver</a>

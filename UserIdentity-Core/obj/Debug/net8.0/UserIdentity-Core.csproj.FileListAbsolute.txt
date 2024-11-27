@@ -128,6 +128,7 @@ C:\Users\Administrador\source\repos\UserIdentity-Core\UserIdentity-Core\obj\Debu
 C:\Users\Administrador\source\repos\UserIdentity-Core\UserIdentity-Core\obj\Debug\net8.0\UserIdentity-Core.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Administrador\source\repos\UserIdentity-Core\UserIdentity-Core\obj\Debug\net8.0\UserIdentity-Core.RazorAssemblyInfo.cache
 C:\Users\Administrador\source\repos\UserIdentity-Core\UserIdentity-Core\obj\Debug\net8.0\UserIdentity-Core.RazorAssemblyInfo.cs
+C:\Users\Administrador\source\repos\UserIdentity-Core\UserIdentity-Core\obj\Debug\net8.0\UserIdentity-Core.sourcelink.json
 C:\Users\Administrador\source\repos\UserIdentity-Core\UserIdentity-Core\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Administrador\source\repos\UserIdentity-Core\UserIdentity-Core\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Administrador\source\repos\UserIdentity-Core\UserIdentity-Core\obj\Debug\net8.0\staticwebassets\msbuild.UserIdentity-Core.Microsoft.AspNetCore.StaticWebAssets.props

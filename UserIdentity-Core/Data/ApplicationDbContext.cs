@@ -10,5 +10,15 @@ namespace UserIdentity_Core.Data
             : base(options)
         {
         }
+
+        public DbSet<Producto> Productos { get; set; }
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+            builder.Entity<Producto>()
+                   .HasOne(p => p.Usuario)
+                   .WithMany(u => u.Productos)
+                   .HasForeignKey(p => p.UserId);
+        }
     }
 }

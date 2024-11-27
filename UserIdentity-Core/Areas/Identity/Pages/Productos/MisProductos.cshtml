@@ -1,0 +1,35 @@
+﻿@page
+@model UserIdentity_Core.Areas.Identity.Pages.Productos.MisProductosModel
+@{
+    ViewData["Title"] = "Mis Productos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+<a href="/Identity/Productos/Create" class="btn btn-primary">Crear Producto</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Precio</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var producto in Model.Productos)
+        {
+            <tr>
+                <td>@producto.Nombre</td>
+                <td>@producto.Descripcion</td>
+                <td>@producto.Precio</td>
+                <td>
+                    <a class="btn btn-primary" href="/Productos/Edit?id=@producto.Id">Editar</a>
+                    <a class="btn btn-danger" href="/Identity/Productos/Delete?id=@producto.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

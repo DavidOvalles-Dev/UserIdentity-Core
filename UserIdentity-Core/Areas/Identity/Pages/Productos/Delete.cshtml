@@ -1,0 +1,29 @@
+﻿@page "{id:int}"
+@using UserIdentity_Core.Models
+@model UserIdentity_Core.Areas.Identity.Pages.Productos.DeleteModel
+@{
+    ViewData["Title"] = "Eliminar Productos";
+}
+
+<h2>Eliminar Producto</h2>
+
+<p>¿Estás seguro de que deseas eliminar el siguiente producto?</p>
+
+<div>
+    <h4>@Model.Producto.Nombre</h4>
+    <dl class="row">
+        <dt class="col-sm-2">Descripción</dt>
+        <dd class="col-sm-10">@Model.Producto.Descripcion</dd>
+
+        <dt class="col-sm-2">Precio</dt>
+        <dd class="col-sm-10">@Model.Producto.Precio:C</dd>
+
+        <dt class="col-sm-2">Imagen</dt>     
+    </dl>
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="Producto.Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-page="./Index" class="btn btn-secondary">Cancelar</a>
+</form>

@@ -9,5 +9,8 @@ namespace UserIdentity_Core.Models
         [Display(Name = "Nombre Completo")]
         public string fullName { get; set; }
 
+        public ICollection<Producto> Productos { get; set; }
+
     }
+
 }
